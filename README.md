@@ -1,6 +1,7 @@
 # IMDB Movie Database
 
-This project had the specific requirements listed:
+This project had the specific requirements listed below:
+
 - create a movie database by reading the data from .csv file into an array
 - create a hash table of red black trees to perform search operation by fields including year, imdb_score, language and content_rating. [red black tree where key is year; another red black tree where key is imdb_score, etc.]
 - stores red black trees in a hash table
